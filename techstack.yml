@@ -1,0 +1,121 @@
+repo_name: DarckRM/louise-telegram
+report_id: 97a5cbd39c68a66ac0913c8a78107d89
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-17T08:10:53+00:00'
+requested_by: DarckRM
+provider: github
+branch: main
+detected_tools_count: 9
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/DarckRM/louise-telegram
+  detection_source: Repo Metadata
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/DarckRM/louise-telegram/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: DarckRM
+  last_updated_on: 2023-10-25 13:32:26.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DarckRM/louise-telegram
+  detection_source: Repo Metadata
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/DarckRM/louise-telegram/blob/main/src/main/resources/application.yml
+  detection_source: src/main/resources/application.yml
+  last_updated_by: DarckRM
+  last_updated_on: 2023-10-25 13:32:26.000000000 Z
+- name: com.squareup.okhttp3:okhttp
+  description: 'Null'
+  version: 4.9.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/DarckRM/louise-telegram/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: DarckRM
+  last_updated_on: 2023-10-25 13:32:26.000000000 Z
+- name: org.springframework.boot:spring-boot-configuration-processor
+  description: Spring Boot Configuration Processor
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/DarckRM/louise-telegram/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: DarckRM
+  last_updated_on: 2023-10-25 13:32:26.000000000 Z
+- name: org.springframework.boot:spring-boot-devtools
+  description: Spring Boot Developer Tools
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/DarckRM/louise-telegram/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: DarckRM
+  last_updated_on: 2023-10-25 13:32:26.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/DarckRM/louise-telegram/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: DarckRM
+  last_updated_on: 2023-10-25 13:32:26.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/DarckRM/louise-telegram/blob/main/pom.xml
+  detection_source: pom.xml
+  last_updated_by: DarckRM
+  last_updated_on: 2023-10-25 13:32:26.000000000 Z
